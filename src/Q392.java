@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 public class Q392 {
     public static void main(String[] args) {
         String s = "abc";
